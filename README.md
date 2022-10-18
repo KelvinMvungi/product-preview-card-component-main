@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KelvinMvungi/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://kelvinmvungi.github.io/product-preview-card-component-main/)
+- Solution URL: [(https://github.com/KelvinMvungi/product-preview-card-component-main)]
+- Live Site URL: [(https://kelvinmvungi.github.io/product-preview-card-component-main/)]
 
 ## My process
 
