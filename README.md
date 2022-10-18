@@ -57,6 +57,6 @@ What I learned in this section is cool new ways to create and initialize a repos
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/HTML) - This helped me for some HTML markup. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.w3schools.com/css) - This is an amazing article which helped me finally understand center items. I'd recommend it to anyone still learning this concept.
+- [(https://developer.mozilla.org/en-US/docs/Web/HTML)] - This helped me for some HTML markup. I really liked this pattern and will use it going forward.
+- [(https://www.w3schools.com/css)] - This is an amazing article which helped me finally understand center items. I'd recommend it to anyone still learning this concept.
 
