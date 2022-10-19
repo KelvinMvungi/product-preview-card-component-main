@@ -16,7 +16,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,7 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot-desktop.png) FOR DESKTOP DESIGN
+![](./screenshot-mobile.png) FOR MOBILE DESIGN
 
 
 ### Links
@@ -39,7 +39,7 @@ Users should be able to:
 
 ## My process
 
-Started with the HTML first, later came to the css and did some minor edit on the HTML to get the layout correct for desktop design.
+Started with the HTML first, and moved on to the styling with mobile first approach. After that I did the desktop design and everything was looking good and responsive.
 
 ### Built with
 
@@ -47,7 +47,7 @@ Started with the HTML first, later came to the css and did some minor edit on th
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
+- Media query
 
 ### What I learned
 
